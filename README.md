@@ -8,6 +8,8 @@ Modificar README.md
     <img src="https://user-images.githubusercontent.com/308331/194041226-4c6d8181-cafa-4ea8-8735-1d8106f5e5f6.svg#gh-dark-mode-only" />
 </p>
 
+PRUEBA1 probando el reset
+
 <p align="center">
     <a href="https://buildkite.com/automattic/pocket-casts-android"><img src="https://badge.buildkite.com/dc67ef3537ad6cf097ff193b28063347418205a341d55f9940.svg?branch=main" /></a>
     <a href="https://github.com/Automattic/pocket-casts-android/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/license-MPL-blue" /></a>
